@@ -11,9 +11,10 @@ export default function Home() {
             🚀 Next.js + Vercel Deployment
           </div>
 
-          <h1>
-            Professional Vercel Deployment
-          </h1>
+
+        <h1>
+          Professional Vercel Deployment - UPDATE LIVE
+        </h1>
 
           <p>
             Aplikasi modern menggunakan Next.js yang siap deploy ke cloud
